@@ -1,0 +1,10 @@
+.circulo{
+	width: 100px;
+	height: 100px;
+	background: red;
+	border-radius: 70%;
+}
+#caja{ border: 35px;
+	    margin : 40%;
+
+}
