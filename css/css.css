@@ -1,7 +1,7 @@
 .circulo{
 	width: 100px;
 	height: 100px;
-	background: red;
+	background: blue;
 	border-radius: 70%;
 }
 #caja{ border: 35px;
